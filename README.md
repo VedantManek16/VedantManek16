@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=23,42,88,105&text=Vedant%20Manek&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20•%Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=62&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=gradient&customColorList=23,42,88,105&text=Vedant%20Manek&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20•%20Full%20Stack%20Developer%20•%20Competitive%20Programmer&descAlignY=62&descSize=16"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VedantManek16&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
